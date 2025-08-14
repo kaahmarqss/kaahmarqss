@@ -1,6 +1,6 @@
 <img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-# 👩‍💻 Kassia Isabelle
+ 👩‍💻 Kassia Isabelle
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [Faculdade IMPACTA](https://www.impacta.edu.br/)  
 📍 São Paulo, Brasil  
